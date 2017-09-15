@@ -1,6 +1,6 @@
 # Inmobile API laravel classes
 
-Simple classes for the inmobile.dk SMS API
+Simple classes for the inmobile.dk SMS API, you can find their official documentation here: https://mm.inmobile.dk/YOUR-CUSTOMER-ID/apiinfo (once signed in).
 
 ## Usage
 
